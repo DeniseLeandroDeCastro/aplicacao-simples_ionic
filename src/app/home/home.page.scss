@@ -1,5 +1,6 @@
 #container {
   text-align: center;
+  font-size: 10px;
 
   position: absolute;
   left: 0;
@@ -9,12 +10,12 @@
 }
 
 #container strong {
-  font-size: 20px;
+  font-size: 10px;
   line-height: 26px;
 }
 
 #container p {
-  font-size: 16px;
+  font-size: 10px;
   line-height: 22px;
 
   color: #8c8c8c;
@@ -24,4 +25,8 @@
 
 #container a {
   text-decoration: none;
+}
+
+.text {
+  font-size: small;
 }
